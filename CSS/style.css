@@ -18,7 +18,7 @@ body {
 
 nav ul li{
      list-style: none;
-     color: rgba(247, 224, 17, 0.773);
+     color: #ffc233;
      top: 10%;
 }
 ul li img {
@@ -63,7 +63,7 @@ ul li button{
 }
 main h1{
      left: 30%;
-     color: rgba(247, 224, 17, 0.773);
+     color: #ffc233;
      font-size: 7rem;
      font-family: "Dela Gothic One", cursive;
 }
